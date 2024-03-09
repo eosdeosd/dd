@@ -10,12 +10,12 @@
     }],
   "sites": [
     {
-    "key":"豆瓣",
-   "name":"春春😇影视",
-   "type":3,
-   "api":"./lib/drpy2.min8.js", 
-   "ext":"./lib/douban.js"
- },
+      "key": "豆瓣",
+      "name": "春春😇影视",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0
+    },
     {
       "key": "csp_KungFu404",
       "name": "Token┃设置",
