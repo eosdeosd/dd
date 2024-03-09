@@ -13,7 +13,7 @@
     "key":"豆瓣",
    "name":"春春😇影视",
    "type":3,"api":
-   "api":"./lib/drpy2.min.js",
+   
    "ext":"./lib/douban.js"
  },
     {
