@@ -101,11 +101,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/yingshiche.json"
-    },
-  
- 
-   
-    
+    },    
    {
       "key": "woxog",
       "name": "雪落┃4K",
@@ -218,9 +214,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://download.kstore.space/download/4127/js/电影港.json","jar":"https://qu.ax/qokd.jpg"
-    },
-    {"key":"drpy_js_磁力熊[磁]","name":"🧲磁力 | 磁力熊[磁][js]","type":3,"api":"https://qu.ax/NtMt.js",  "ext":"https://qu.ax/zGrL.js"},
-    
+    },   
  {
       "key": "团长资源",
       "name": "团长蓝光┃4K",
@@ -639,22 +633,6 @@
       "filterable": 1,
       "ext": "./lib/云盘资源.json"
     },
-    
-    
-    {
-      "key": "dr_兔小贝",
-      "name": "儿童┃启蒙",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/兔小贝.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
     {
       "key": "少儿教育",
       "name": "少儿┃教育",
@@ -713,19 +691,6 @@
       },
       "timeout": 30
     },
-  
-   
-        {
-      "key": "阿里云集合",
-      "name": "阿里云集合|4K",
-      "type": 3,
-      "jar": "./pg.jar",
-      "api": "csp_阿里云集合",
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
-    },
     {
       "key": "配置中心",
       "name": "极速GO原画┃夸克配置",
@@ -739,8 +704,7 @@
         "ratio": 1
       },
       "ext": "./lib/PG推送.json"
-    },
-    
+    },   
     {
       "key": "chunchun",
       "name": "请勿相信视频中任何广告",
