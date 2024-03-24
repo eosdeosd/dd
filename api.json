@@ -279,17 +279,7 @@
       "jar": "./lib/s.jar",
       "ext": "https://www.80yy3.com"
     },
-    {
-    "key": "T4-360",
-      "name": "360影视大全",
-      "type": 4,
-      "api": "https://catbox.n13.club/360.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,      
-      "ext": true
-    },
+    {"key":"csp_SP360","name":"360影视 | 太阳视听","type":3,"api":"https://tvbox.meitufu.com/TVBox/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tvbox.meitufu.com/TVBox/js/360.js"},
     {
       "key": "csp_Czsapp",
       "name": "厂长┃影视",
