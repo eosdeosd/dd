@@ -372,15 +372,14 @@
         "欧美综艺"
       ]
     },
-    {
-      "key": "量子",
-      "name": "春盈┃量子",
-      "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/?ac=list",
-      "jar": "./lib/s.jar",
-      "searchable": 1,
-      "changeable": 1
-    },
+     {
+            "key": "量子",
+            "name": "👉春盈┃量子",
+            "type": 1,
+            "api": "https://cj.lziapi.com/api.php/provide/vod",
+            "searchable": 1,
+            "changeable": 1
+        },
     {
       "key": "xlzy",
       "name": "新浪┃影视",
