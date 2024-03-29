@@ -248,6 +248,20 @@
       "api": "http://cc.xzam.cn/api.php/provide/vod/"
     },
   
+   {
+            "key": "Bili",
+            "name": "🅱哔哔┃合集",
+            "type": 3,
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/bilibili.json"
+        },
     {
       "key": "农民影视",
       "name": "农民┃影视",
