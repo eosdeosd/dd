@@ -539,17 +539,6 @@
     },
   
     {
-      "key": "安博影视",
-      "name": "安博┃影视",
-      "type": 4,
-      "api": "https://tang.serv00.net/power/ub1818",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": true
-    },
-    {
       "key": "csp_Xinsj",
       "name": "视觉┃影视",
       "type": 3,
