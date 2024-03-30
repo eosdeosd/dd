@@ -72,15 +72,15 @@
       "ext": "./lib/yinyue.json"
     },
       {
-            "key": "csp_XYQHikerAL_玩偶哥哥",
-            "name": "玩偶┃哥哥",
-            "type": 3,
-            "api": "csp_XYQHikerAL",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/玩偶哥哥.json"
-             },
+      "key": "玩偶哥哥",
+      "name": "玩偶┃4K",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://https://wogg.888484.xyz/$$$弹"
+     },
        {
        "key":"csp_XYQHikerAL_豆豆",
        "name":"土豆┃影视",
