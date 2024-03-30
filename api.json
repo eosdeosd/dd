@@ -78,7 +78,7 @@
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "./lib/fan.jar",
+      "jar": "./lib/fan.txt",
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://https://wogg.888484.xyz/$$$弹"
      },
