@@ -153,6 +153,19 @@
       "jar": "./lib/s.jar",
       "ext": "./lib/4KHDR.json"
     },
+
+     {
+      "key": "zxzj",
+      "name": "在线┃外剧",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "timeout": 15,
+       "jar": "./lib/fty.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.zxzja.com/"
+    },
     {
       "key": "csp_XBPQ_6V",
       "name": "宇宙┃4K",
