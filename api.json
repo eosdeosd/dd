@@ -609,6 +609,7 @@
       "filterable": 1,
       "timeout": 10
     },
+    {"key":"yunp","name":"云盘","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.nxog.top/m/json/yps.json"},
     {
       "key": "drpy_js_lf_p2p",
       "name": "磁力┃搜索",
