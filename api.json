@@ -591,15 +591,6 @@
     },
   
     {
-      "key": "csp_Xinsj",
-      "name": "视觉┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_Xinsj",
-      "jar": "./lib/custom_spider2.jar",
-      "ext": "https://www.80yy3.com/"
-    },
-    {
       "key": "️爱看Bot",
       "name": "爱看┃影视",
       "type": 3,
