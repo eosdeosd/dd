@@ -529,20 +529,35 @@
         "体育"
       ]
     },
-    {
-      "key": "腾讯2",
-      "name": "📕腾讯┃官源 ",
-      "type": 3,
-      "api": "./lib/drpy2.min1.js",
-      "ext": "./lib/腾讯视频.js"
-    },
-    {
-      "key": "爱奇异",
-      "name": "📘 爱奇艺┃官源 ",
-      "type": 3,
-      "api": "./lib/drpy2.min1.js",
-      "ext": "./lib/iqy.js"
-    },
+     {
+            "key": "drpy_js_奇珍异兽",
+            "name": "📘 爱奇艺(官源)",
+            "type": 3,
+            "api": "./lib/drpy2.min9.js",
+            "ext": "./lib/奇珍异兽.js"
+        },
+         {
+            "key": "drpy_js_腾云驾雾",
+            "name": "📕腾讯(官源)",
+            "type": 3,
+            "api": "./lib/drpy2.min9.js",
+            "ext": "./lib/腾云驾雾.js"
+        },
+        {
+            "key": "drpy_js_优酷",
+            "name": "📘优酷(官源)",
+            "type": 3,
+            "api": "./lib/drpy2.min9.js",
+            "ext": "./lib/优酷.js"
+        },
+       
+        {
+            "key": "drpy_js_百忙无果",
+            "name": "📕百忙无果(官源)",
+            "type": 3,
+            "api": "./lib/drpy2.min9.js",
+            "ext": "./lib/百忙无果.js"
+        }, 
     
     {
       "key": "nangua",
