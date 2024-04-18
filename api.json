@@ -763,19 +763,7 @@
         }
       }
     },
-    {
-      "name": "东洋vip",
-      "type": 1,
-      "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=",
-      "ext": {
-        "flag": [
-          "seven"
-        ],
-        "header": {
-          "User-Agent": "Lavf/58.12.100"
-        }
-      }
-    },
+
     {
       "name": "海天vip",
       "type": 1,
