@@ -109,17 +109,17 @@
 
 
 {
-          "key": "Xinshijue",
-                "name": "新视觉🍹网盘4K",
-                      "type": 3,
-                            "api": "csp_Xinshijue",
-                                  "jar": "./jar/pg0401.jar",
-                                        "quickSearch": 1,
-                                              "changeable": 1,
-                                                    "filterable": 1,
-                                                          "timeout": 60,
-                                                                "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://www.80yy3.com/$$$proxy$$$1$$$./json/wogg.json"
-},
+      "key": "Xinshijue",
+      "name": "新视觉🍹网盘4K",
+      "type": 3,
+      "api": "csp_Xinshijue",
+      "jar": "./lib/pg.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://www.80yy3.com/$$$proxy$$$1$$$./json/wogg.json"
+    },  
 
   {
       "key": "开心玩偶",
