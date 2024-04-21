@@ -107,19 +107,15 @@
       "ext": "http://vipcms.lyyytv.cn/api.php/app/"
       },
 
-
 {
-      "key": "Xinshijue",
-      "name": "新视觉🍹网盘4K",
+      "key": "csp_Xinsj",
+      "name": "视觉┃影视",
       "type": 3,
-      "api": "csp_Xinshijue",
-      "jar": "https://cloud.lxweb.cn/f/Eg0PIX/pg.jar",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://www.80yy3.com/$$$proxy$$$1$$$./json/wogg.json"
-    },  
+      "playerType": "2",
+      "api": "csp_Xinsj",
+      "jar": "./lib/云星.php",
+      "ext": "https://www.80yy3.com/"
+    },
 
   {
       "key": "开心玩偶",
