@@ -23,16 +23,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {
-      "key": "csp_KungFu404",
-      "name": "Token┃设置",
-      "type": 3,
-      "api": "csp_KungFu404",
-      "jar": "https://notabug.org/dongchenys/pt/raw/json/jar/alibaba.jar",
-      "searchable": 0,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
-    },
+    
      {
             "key": "网盘配置",
             "name": "网盘┃彈幕配置",
