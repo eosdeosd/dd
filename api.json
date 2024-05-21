@@ -561,3 +561,163 @@
       "quickSearch": 0
     }
   ],
+
+  "parses": [{
+      "name": "聚合1",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "聚合2",
+      "type": 3,
+      "url": "Web"
+    },
+    {
+      "name": "影视",
+      "type": 1,
+      "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=",
+      "ext": {
+        "flag": [
+          "seven"
+        ],
+        "header": {
+          "User-Agent": "Lavf/58.12.100"
+        }
+      }
+    },
+    {
+      "name": "嗅探",
+      "type": 0,
+      "url": "https://jx.haokantv.cyou/player/?url="
+    },
+    {
+      "name": "嗅探一",
+      "type": 0,
+      "url": "http://bfqjc.xwyxpw.cn/?url="
+    },
+    {
+      "name": "嗅探二",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url="
+    },
+    {
+      "name": "嗅探三",
+      "type": 0,
+      "url": "https://jx.bozrc.com:4433/player/?url="
+    },
+    {
+      "name": "嗅探四",
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url="
+    },
+    {
+      "name": "嗅探五",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    }],
+    
+    
+    "flags": [ "youku",
+    "优酷",
+    "优 酷",
+    "优酷视频",
+    "qq",
+    "腾讯",
+    "腾 讯",
+    "腾讯视频",
+    "iqiyi",
+    "qiyi",
+    "奇艺",
+    "爱奇艺",
+    "爱 奇 艺",
+    "m1905",
+    "xigua",
+    "letv",
+    "leshi",
+    "乐视",
+    "乐 视",
+    "sohu",
+    "搜狐",
+    "搜 狐",
+    "搜狐视频",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "芒果",
+    "imgo",
+    "芒果TV",
+    "芒 果 T V",
+    "bilibili",
+    "哔 哩",
+    "哔 哩 哔 哩"],
+    "rules": [
+        {
+            "name": "LZ",
+            "hosts": [
+                "lz"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",
+                "18.5333",
+                "19.520000",
+                "18.666667",
+                "17.2",
+                "19.84"
+            ]
+        },
+        {
+            "name": "FF",
+            "hosts": [
+                "ffzy"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",
+                "25.1",
+                "18"
+            ]
+        },
+        {
+            "name": "yqk",
+            "hosts": [
+                "yqk88"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-CUE-IN"
+            ]
+        },
+        {
+            "name": "KK",
+            "hosts": [
+                "kuaikan"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "SN",
+            "hosts": [
+                "suonizy"
+            ],
+            "regex": [
+                "#EXTINF.*?\\s+.*?original.*?\\.ts\\s+",
+                "15.1666",
+                "15.2666",
+                "16.333333",
+                "15.266667"
+            ]
+        },
+        {
+            "name": "BF",
+            "hosts": [
+                "bfzy"
+            ],
+            "regex": [
+                "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+",
+                "_cef"
+            ]
+        }
+    ] 
+}
