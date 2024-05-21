@@ -24,6 +24,16 @@
       "filterable": 0
     },
     {
+            "key": "douban",
+            "name": "影视大全",
+            "type": 3,
+            "api": "csp_DouBan",
+            "quickSearch": 0,
+            "filterable": 0,
+             "jar": "./lib/232.jar",
+            "changeable": 0
+        },
+    {
       "key": "网盘配置",
       "name": "网盘┃彈幕配置",
       "type": 3,
