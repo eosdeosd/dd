@@ -2,3 +2,562 @@
       "spider": "./dwc.jar;md5;d1fa24b46f218f455bc3f4b948fd457e",
         "warningText": "正在加载……请稍后",
 }
+   "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "url": "https://6735.kstore.space/直播.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
+  "sites": [
+    {
+      "key": "豆瓣",
+      "name": "豆瓣😇影视┃提供接口维护",
+      "type": 3,
+      "api": "csp_DouDou",
+      "jar": "./lib/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "网盘配置",
+      "name": "网盘┃彈幕配置",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "jar": "./lib/pg1.jar",
+      "ext": "./lib/tokenm.json"
+    },
+    {
+      "key": "玩偶哥哥",
+      "name": "玩偶┃4K",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "jar": "./lib/fan.txt",
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://https://wogg.888484.xyz/$$$弹"
+    },
+    {
+      "key": "csp_XYQHikerAL_豆豆",
+      "name": "土豆┃影视",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/tudouali.json",
+      "jar": "./lib/XYQ.jar"
+    },
+    {
+      "key": "csp_Xinsj",
+      "name": "视觉┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Xinsj",
+      "jar": "./lib/云星.php",
+      "ext": "https://www.80yy3.com/"
+    },
+    {
+      "key": "csp_XYQHikerAL_阿里苏苏",
+      "name": "苏苏┃臻享4K",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "./lib/xyqwogg.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/alisusu.json"
+    },
+    {
+      "key": "csp_XYQHikerAL_4KHDR",
+      "name": "HDR源┃4K",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./lib/s.jar",
+      "ext": "./lib/4KHDR.json"
+    },
+    
+    
+    
+    {
+      "key": "zxzj",
+      "name": "在线┃外剧",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "timeout": 15,
+      "jar": "./lib/fty.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.zxzja.com/"
+    },
+    {
+      "key": "csp_XBPQ_6V",
+      "name": "宇宙┃4K",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./lib/spider.jar;md5;f6eac2c1831ccd0215892f30c306958f",
+      "ext": "./lib/6v.json"
+    },
+    {
+      "key": "遥遥领先",
+      "name": "领先┃秒播",
+      "type": 3,
+      "api": "csp_NanGua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "索尼",
+      "name": "索尼┃4K",
+      "type": 1,
+      "playerType": 2,
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "categories": [
+        "4K电影",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "港剧",
+        "台剧",
+        "泰剧",
+        "记录片",
+        "海外剧",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺",
+        "足球",
+        "影视解说",
+        "国产动漫"
+      ]
+    },
+  
+    {
+      "key": "新6V",
+      "name": "V6┃磁力",
+      "type": 3,
+      "api": "csp_SixV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "./lib/秒播.txt",
+      "ext": "http://www.xb6v.com/"
+    },
+    {
+      "key": "csp_New6v",
+      "name": "V6┃4K",
+      "type": 3,
+      "api": "csp_New6v",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.xb6v.com",
+      "jar": "./lib/83.jar"
+    },
+    {
+      "key": "Clg",
+      "name": "磁力┃搜索",
+      "type": 3,
+      "api": "csp_Clg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 0,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$https://clg.clgvip1.xyz/$$$proxy$$$1",
+      "style": {
+        "type": "rect",
+        "ratio": 1.5
+      },
+      "jar": "./lib/pg1.jar"
+    },
+    {
+      "key": "4k高清",
+      "name": "星空┃高清┃4K",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "./lib/xyqwogg.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/alisusu.json"
+    },
+    {
+      "key": "新视觉",
+      "name": "新视┃影视",
+      "type": 3,
+      "api": "csp_Web608",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "jar": "./lib/s.jar",
+      "ext": "https://www.80yy3.com"
+    },
+    {
+      "key": "鑫鑫影视",
+      "name": "鑫鑫┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://yingszj.xn--654a.cc/api.php/app/"
+    },
+    {
+      "key": "火狐影视",
+      "name": "火狐┃影视",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "categories": [
+        "内地剧",
+        "动作片",
+        "科幻片",
+        "战争片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "犯罪片",
+        "剧情片",
+        "冒险片",
+        "记录片",
+        "韩剧",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "日剧",
+        "马泰剧",
+        "体育赛事",
+        "综艺",
+        "动画片",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫"
+      ]
+    },
+    
+    
+    
+    {
+      "key": "红牛",
+      "name": "红牛┃影视",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "纪录片",
+        "动漫电影",
+        "国产剧",
+        "欧美剧",
+        "犯罪片",
+        "港澳剧",
+        "韩剧",
+        "泰剧",
+        "台湾剧",
+        "日剧",
+        "海外剧",
+        "其他片",
+        "悬疑片",
+        "奇幻片",
+        "动画片",
+        "体育赛事",
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
+    },
+    {
+      "key": "量子",
+      "name": "春盈┃量子",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "xlzy",
+      "name": "新浪┃影视",
+      "type": 1,
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": [
+        "国产动漫",
+        "日韩动漫",
+        "大陆剧",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片"
+      ]
+    },
+
+    {
+      "key": "视频采集",
+      "name": "采集┃视频┃一",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": [
+        "爽文短剧",
+        "灾难片",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片"
+      ]
+    },
+    {
+      "key": "豪华",
+      "name": "豪华┃影视",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/"
+    },
+    
+    
+    {
+      "key": "cjzy_快看",
+      "name": "快看┃影视",
+      "type": 1,
+      "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/",
+      "playUrl": "",
+      "changeable": 1,
+      "playerType": 2,
+      "categories": [
+        "国产剧",
+        "港台剧",
+        "国产动漫",
+        "日韩剧",
+        "欧美剧",
+        "海外剧",
+        "动作片",
+        "爱情片",
+        "剧情片",
+        "科幻片",
+        "奇幻片",
+        "战争片",
+        "犯罪片",
+        "恐怖片",
+        "悬疑片",
+        "惊悚片",
+        "冒险片"
+      ]
+    },
+    {
+      "key": "️爱看Bot",
+      "name": "爱看┃影视",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "yunp",
+      "name": "云盘",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/yps.json"
+    },
+    {
+      "key": "drpy_js_lf_p2p",
+      "name": "磁力┃搜索",
+      "type": 3,
+      "api": "./lib/lf_p2p1_min.js"
+    },
+    {
+      "key": "csp_XYQHikerAL_云盘资源",
+      "name": "📀云盘资源┃搜索",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/云盘资源.json"
+    },
+    {
+      "key": "少儿教育",
+      "name": "少儿┃教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "jar": "./lib/s.jar",
+      "ext": "./lib/少儿教育.json"
+    },
+    {
+      "key": "小学课堂",
+      "name": "小学┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "jar": "./lib/s.jar",
+      "ext": "./lib/小学课堂.json"
+    },
+    
+    
+    
+    {
+      "key": "初中课堂",
+      "name": "初中┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "jar": "./lib/s.jar",
+      "ext": "./lib/初中课堂.json"
+    },
+    {
+      "key": "PushShare",
+      "name": "我的┃阿里",
+      "type": 3,
+      "api": "csp_PushShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "jar": "./lib/pg0.jar",
+      "changeable": 1,
+      "filterable": 0,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1",
+      "style": {
+        "type": "list",
+        "ratio": 1.1
+      }
+    },
+    {
+      "key": "AliShare",
+      "name": "阿里云盘┃影视",
+      "type": 3,
+      "api": "csp_AliShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "jar": "./lib/pg0.jar",
+      "changeable": 1,
+      "filterable": 0,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$./lib/alishare.txt$$$db$$$1",
+      "style": {
+        "type": "list",
+        "ratio": 1.1
+      }
+    },
+    {
+      "key": "Yinyuetai",
+      "name": "音悦┃MV一",
+      "type": 3,
+      "api": "csp_Yinyuetai",
+      "searchable": 1,
+      "changeable": 0,
+      "jar": "./lib/0229.jar"
+    },
+    {
+      "key": "Iktv",
+      "name": "音乐┃MV二",
+      "type": 3,
+      "api": "csp_Iktv",
+      "searchable": 1,
+      "jar": "./lib/custom_spider1.jar",
+      "changeable": 0
+    },
+    {
+      "key": "演唱会",
+      "name": "音乐┃鉴赏",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "jar": " ./lib/fan.txt",
+      "ext": "./lib/yinyue.json"
+    },
+    {
+      "key": "chuncuu",
+      "name": "请勿相信视频中任何广告",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "chunchun",
+      "name": "05月22日接口仅测试使用",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 0,
+      "quickSearch": 0
+    }
+  ],
