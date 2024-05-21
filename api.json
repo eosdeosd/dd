@@ -88,7 +88,35 @@
       "ext": "./lib/4KHDR.json"
     },
     
-    
+     {
+      "key": "csp_XYQHikerAL_9995",
+      "name": "9995🐣云盘",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/9995yunpan.json"
+    },
+     {
+      "key": "nangua",
+      "name": "南瓜🎃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/南瓜.js"
+    },
+    {
+      "key": "csp_Bili短剧",
+      "name": "哔哩🅱️短剧",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "./lib/xiaohu.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib/Bili短剧.json"
+    },
     
     {
       "key": "zxzj",
