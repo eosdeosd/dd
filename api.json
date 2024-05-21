@@ -95,6 +95,7 @@
       "api": "csp_XYQHikerAL",
       "searchable": 1,
       "quickSearch": 1,
+       "jar": "./lib/22.jar",
       "filterable": 1,
       "ext": "./lib/9995yunpan.json"
     },
@@ -103,6 +104,7 @@
       "name": "南瓜🎃影视",
       "type": 3,
       "playerType": "2",
+       "jar": "./lib/22.jar",
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/南瓜.js"
     },
