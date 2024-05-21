@@ -1,6 +1,6 @@
 {
   "spider": "./dwc.jar;md5;d1fa24b46f218f455bc3f4b948fd457e",
-  "warningText":"正在加载!请稍后",
+  "warningText":"正在加载！！请稍后",
    "lives": [
     {
       "name": "live",
