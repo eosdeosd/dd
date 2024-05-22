@@ -72,7 +72,7 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Xinsj",
-      
+       "jar": "./lib/云星.php",
       "ext": "https://www.80yy3.com/"
     },
     {
