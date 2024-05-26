@@ -119,15 +119,7 @@
       "filterable": 1,
       "ext": "./lib/9995yunpan.json"
     },
-     {
-      "key": "nangua",
-      "name": "南瓜🎃影视",
-      "type": 3,
-      "playerType": "2",
-       "jar": "./lib/22.jar",
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/南瓜.js"
-    },
+    
     {
       "key": "csp_Bili短剧",
       "name": "哔哩🅱️短剧",
