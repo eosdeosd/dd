@@ -33,6 +33,16 @@
              "jar": "./lib/232.jar",
             "changeable": 0
         },
+        {
+      "key": "应用商店",
+      "name": "🏫┃应用商店",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "./lib/yysd.json",
+      "jar": "./lib/应用市场.jar"
+    },
     {
       "key": "网盘配置",
       "name": "网盘┃彈幕配置",
