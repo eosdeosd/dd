@@ -107,8 +107,17 @@
       "jar": "./lib/s.jar",
       "ext": "./lib/4KHDR.json"
     },
-    
-     {
+    {
+      "key": "csp_NanGua",
+      "name": "🎃南瓜影视",
+      "type": 3,
+      "api": "csp_NanGua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
       "key": "csp_XYQHikerAL_9995",
       "name": "9995🐣云盘",
       "type": 3,
