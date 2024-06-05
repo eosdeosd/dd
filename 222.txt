@@ -3,7 +3,10 @@
         {       
             "url": "https://6735.kstore.space/api.json",
             "name": "春春影视"
-        }              
-                    
+        },              
+         {       
+            "url": "https://cloud.lxweb.cn/f/zQl8uz/xiaosa.json",
+            "name": "小小影视"
+        }                             
            ]
 }
