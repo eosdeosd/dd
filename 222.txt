@@ -4,9 +4,6 @@
             "url": "https://6735.kstore.space/api.json",
             "name": "春春影视"
         } ,                
-        {       
-            "url": "http://9xi4o.tk/0725.json",
-            "name": "4K云盘影视"
-        }                 
+                         
            ]
 }
