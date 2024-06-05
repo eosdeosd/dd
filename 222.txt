@@ -3,7 +3,7 @@
         {       
             "url": "https://6735.kstore.space/api.json",
             "name": "春春影视"
-        } ,                
-                         
+        }              
+                    
            ]
 }
