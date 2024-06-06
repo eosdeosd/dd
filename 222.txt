@@ -7,6 +7,10 @@
          {       
             "url": "https://qu.ax/YsJV.json",
             "name": "小小影视"
-        }                             
+        },
+         {       
+            "url": "https://raw.gitcode.com/y502079957/yy/raw/main/yy",
+            "name": "影视剧场"
+        }                                             
            ]
 }
