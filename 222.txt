@@ -11,6 +11,10 @@
          {       
             "url": "https://raw.gitcode.com/y502079957/yy/raw/main/yy",
             "name": "影视剧场"
-        }                                             
+        },
+         {       
+            "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
+            "name": "内置影视"
+        }                                                             
            ]
 }
